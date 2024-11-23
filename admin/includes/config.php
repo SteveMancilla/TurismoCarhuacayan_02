@@ -4,7 +4,7 @@ define('DB_HOST','junction.proxy.rlwy.net');
 define('DB_PORT', '27959');
 define('DB_USER','root');
 define('DB_PASS','OCqXvInvVWBGDBMoxPWtaXVTEFpVoePa');
-define('DB_NAME','tms1');
+define('DB_NAME','tms');
 // Establish database connection.
 try
 {
