@@ -39,4 +39,4 @@ El desarrollo de este sitio web fue realizado por el siguiente equipo:
 ## Cómo Instalar y Ejecutar  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/<tu_usuario>/carhuacayan-web.git
+   git clone https://github.com/SteveMancilla/TurismoCarhuacayan_02.git
