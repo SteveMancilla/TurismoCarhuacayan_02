@@ -146,7 +146,7 @@ foreach($results as $result)
                     <a href="#"><i class="glyphicon glyphicon-list-alt"></i></a>
                 </div>
                 <div class="rou-rgt wow fadeInDown animated" data-wow-delay=".5s">
-                    <h3>80000</h3>
+                    <h3>80</h3>
                     <p>Consultas</p>
                 </div>
                 <div class="clearfix"></div>

@@ -142,7 +142,7 @@ foreach($results as $result)
                         <div class="clearfix"></div>
                         <div class="grand">
                             <p>Gran Total</p>
-                            <h3>USD.800</h3>
+                            <h3>SOLES.800</h3>
                         </div>
                     </div>
                     <h3>Detalles del paquete</h3>
