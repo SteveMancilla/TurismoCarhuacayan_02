@@ -1,9 +1,10 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
+define('DB_HOST','junction.proxy.rlwy.net');
+define('DB_PORT', '27959');
 define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','tms');
+define('DB_PASS','OCqXvInvVWBGDBMoxPWtaXVTEFpVoePa');
+define('DB_NAME','railway');
 // Establish database connection.
 try
 {
